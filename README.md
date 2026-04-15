@@ -20,7 +20,7 @@ I'm Gustavo, a technology student and programming enthusiast focused on software
 ### 🛠 Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,js,html,css,git,github,vscode,intellij,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,html,css,git,github,mysql" />
 </p>
 
 ---
