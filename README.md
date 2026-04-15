@@ -2,7 +2,7 @@
 
 I'm Gustavo, a technology student and programming enthusiast focused on software development. I enjoy turning ideas into practical solutions and constantly challenging myself with new projects and technologies.
 
-💻 Currently working with C, Java, JavaScript, HTML and CSS  
+💻 Currently studying Java and JavaScript
 🚀 Interested in Backend development, logic and problem solving  
 📚 Always learning and improving my programming skills  
 
