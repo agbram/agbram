@@ -47,7 +47,7 @@ I'm Gustavo, a technology student and programming enthusiast focused on software
 ### 📫 Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/antonio-gustavo-braga-de-matos-6315322b7//">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/antonio-gustavo-braga-de-matos">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:agbram2005@gmail.com">
