@@ -30,17 +30,8 @@ I'm Gustavo, a technology student and programming enthusiast focused on software
 ### 🚀 Featured Projects
 
 - 💰 Banking System in C  
-- 
+- 💻 Bakery ERP Platform
 - 🍰 CherDeal – Reverse marketplace platform (incoming)  
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agbram&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agbram&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
