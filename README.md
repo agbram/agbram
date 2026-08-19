@@ -31,7 +31,7 @@ I'm Gustavo, a technology student and programming enthusiast focused on software
 
 - 💰 Banking System in C  
 - 💻 Bakery ERP Platform
-- 🍰 CherDeal – Reverse marketplace platform (incoming)  
+- 🍰 Cereja Kanban – Real-time agile platform built with Clean Architecture and Discord webhooks.   
 
 ---
 
